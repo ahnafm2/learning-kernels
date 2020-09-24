@@ -8,4 +8,4 @@ The work was done as part of project for class Vector Space Signal Processing at
 * "Projection onto a Simplex" by Yunmei Chen and Xiaojing Ye
 
 ## Code
-The code includes jupyter notebook file that has the demo from the second paper specified previously. 
+The code includes jupyter notebook file that has the demo from the second paper specified previously. Also it includes original code for testing on data sets from the scikit-learn library. 
